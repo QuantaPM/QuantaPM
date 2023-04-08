@@ -11,3 +11,11 @@
 Бобро пожаловать! Мы - Mirage Team - команда креативных разработчиков из культурной столицы России - Санкт-Петербурга, заинтересованная в развитии Open Source проектов, используемых разработчиками.
 
 Основной целью проекта является создание и поддержка кроссплатформенного пакетного менеджера Mirage, который является лучшей альтернативой для многих существующих открытых решений. 
+
+## На данный момент проект находится на стадии активной разработки, на данный момент доступны паервые альфа-версии. 
+
+<ul>
+    <li> <a href="https://github.com/MiragePM/old-mirage-api"> OLD Mirage API (GO) </a> </li>
+    <li> <a href="https://github.com/MiragePM/old-mirage-frontend"> OLD Mirage Frontend (JavaScirpt/CoffeeScript) </a> </li>
+    <li> <a href="https://github.com/MiragePM/old-mirage-cli"> OLD Mirage CLI (GO) </a> </li>
+</ul>
